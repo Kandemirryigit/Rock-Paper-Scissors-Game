@@ -15,6 +15,8 @@
 ![Ekran görüntüsü 2025-01-20 121921](https://github.com/user-attachments/assets/fa84392b-8948-4e69-b500-e2b18975373a)
 
 
-final project looks like this.The main idea of the game is same as daily life rock,paper,scissors game.But in this project you are not playing the game with your friend you are playing the game with computer.Rock>Scissors,Paper>Rock,Scissors>Paper.
+final project looks like this.The main idea of the game is same as daily life rock,paper,scissors game.But in this project you are not playing the game with your friends you are playing the game with computer.Rock>Scissors,Paper>Rock,Scissors>Paper.
+
+I used https://patorjk.com/software/taag/#p=display&f=Ogre&t= this website to create logos
 
 
