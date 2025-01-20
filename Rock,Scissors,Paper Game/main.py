@@ -88,9 +88,9 @@ while game_on2:   # While True
             print(defeat)  # To show defeat logo 
             count_down()  # To run count_down() function
             print("\n"*30)
-            print(wanna_play_again)
-            wanna_play_again=input("Do you wanna play again? y/n: ").lower()
-            if wanna_play_again=="n":
+            print(wanna_play_again_logo)
+            wanna_play_again_question2=input("Do you wanna play again? y/n: ").lower()
+            if wanna_play_again_question2=="n":
                 print("\n"*50)  # to create a fresh screen
                 print(game_over) # To show game over logo
                 game_on2=False  # to stop infinitive loop
